@@ -1,0 +1,4 @@
+para rodar o main desta pasta
+ativar o venv
+export PYTHONPATH="../:$PYTHONPATH"
+python3 main.py -i ../../data/ignored/images/imageLD/00000064/1.jpg

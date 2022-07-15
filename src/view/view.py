@@ -69,6 +69,7 @@ class View:
 
         print(f'A imagem eh fortemente (80-100%) {atributes80}')
         print(f'A imagem eh (60-80%) {atributes60}')
+        print(f'A imagem (40-60%) {atributes40}')
         print(f'A imagem nao eh (20-40%) {atributes20}')
         print(f'A imagem fortemente nao eh (00-20%) {atributes00}')
 
