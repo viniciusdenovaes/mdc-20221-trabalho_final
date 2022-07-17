@@ -1,0 +1,5 @@
+MSE de cada metodo:
+SVR(kernel='rbf', epsilon=0.4, C=1, tol=1e-5) MSE: 0.10056034410446492
+Media de cada atributo:                       MSE: 0.07530906628108633
+VGG16 sem data augmentation,                  MSE: 0.04855997622485081
+VGG16 com data augmentation,                  MSE: 0.042559534690700375
