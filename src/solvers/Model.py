@@ -56,3 +56,4 @@ class MyModelVGG:
         model_path = MODELS_PATH/Path('vgg_250_epochs')
         return get_my_vgg_model(model_path, 'VGG16 sem Data Augmentation')
 
+
